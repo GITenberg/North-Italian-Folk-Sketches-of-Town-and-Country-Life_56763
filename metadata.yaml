@@ -1,0 +1,29 @@
+_repo: North-Italian-Folk-Sketches-of-Town-and-Country-Life_56763
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Caldecott, Randolph
+    alias: Caldecott, R. (Randolph)
+    birthdate: 1846
+    deathdate: 1886
+    gutenberg_agent_id: '3611'
+    url: http://www.gutenberg.org/2009/agents/3611
+    wikipedia: http://en.wikipedia.org/wiki/Randolph_Caldecott
+  - agent_name: Carr, Alice Vansittart Strettel
+    gutenberg_agent_id: '49027'
+    url: http://www.gutenberg.org/2009/agents/49027
+description: ''
+gutenberg_issued: '2018-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56763'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'North Italian Folk
+
+  Sketches of Town and Country Life'
+url: http://www.gutenberg.org/ebooks/56763
